@@ -1,0 +1,11 @@
+{
+  "name": "i7095-non-shell",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.3.14",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
